@@ -287,6 +287,7 @@ If you're working on sound recognition, speech tasks, or environmental audio det
 ---
 
 # **Results**
+> **Note:** Click the image below to view the video showcasing the project’s results.
 <a href="https://files.catbox.moe/suzziy.mp4">
   <img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="400">
 </a>
