@@ -287,10 +287,9 @@ If you're working on sound recognition, speech tasks, or environmental audio det
 ---
 
 # **Results**
-<video width="600" controls>
-  <source src="https://files.catbox.moe/suzziy.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="https://files.catbox.moe/suzziy.mp4">
+  <img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="400">
+</a>
 
 <hr style="border-bottom: 5px solid gray; margin-top: 10px;">
 
