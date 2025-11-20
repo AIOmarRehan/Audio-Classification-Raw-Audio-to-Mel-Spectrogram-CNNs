@@ -1,3 +1,11 @@
+[If you would like a detailed explanation of this project, please refer to the Medium article below.](https://medium.com/@ai.omar.rehan/building-a-complete-audio-classification-pipeline-using-deep-learning-from-raw-audio-to-mel-9894bd438d85)
+
+---
+
+[The project is also available for testing on Hugging Face.](https://huggingface.co/spaces/AIOmarRehan/Deep_Audio_Classifier_using_CNN)
+
+---
+
 # Audio-Classification-Raw-Audio-to-Mel-Spectrogram-CNNs
 Complete end-to-end audio classification pipeline using deep learning. From raw recordings to Mel spectrogram CNNs, includes preprocessing, augmentation, dataset validation, model training, and evaluation — a reproducible blueprint for speech, environmental, or general sound classification tasks.
 
